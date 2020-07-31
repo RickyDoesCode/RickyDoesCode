@@ -1,38 +1,36 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+## Hello, I'm Ricky! 🙏🏻
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mobile Developer at <a href="https://dealjava.com">Dealjava</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Twitter Follow](https://img.shields.io/twitter/follow/RickyDoesCode?label=RickyDoesCode)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ricky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audrick)](https://www.linkedin.com/in/audrick)
+![GitHub followers](https://img.shields.io/github/followers/RickyDoesCode?label=RickyDoesCode&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=RickyDoesCode.RickyDoesCode)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const ricky = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "tech", "app dev", "mentoring", "design"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Flutter", "React Native", "Vue Native"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["Vue", "Nuxt", "Gridsome", "React", "Next", "Gatsby", "Flutter Web"],
+            css: ["materialize", "tailwindcss", "sass/scss", "buefy", "material design"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express", "deno"],
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        cloud: ["AWS", "GCS", "Azure", "Alibaba Services"],
+        databases: ["MongoDB", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO", "Figma", "Framer", "Sanity.io"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Server Side Applications", "Single Page Applications", "Microservice Servers", "MVC"],
+    funFact: "I am an open source project maintainer in 3 different projects"
 };
 ```
 
@@ -40,72 +38,4 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1206801%20Lines%20of%20code-blue)
-
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-🌆 Daytime    127 commits    ████████░░░░░░░░░░░░░░░░░   32.99% 
-🌃 Evening    86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.34% 
-🌙 Night      128 commits    ████████░░░░░░░░░░░░░░░░░   33.25%
-
-```
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Tuesday      81 commits     █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-Wednesday    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
-Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
-Sunday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.08%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Kolkata
-
-💬 Languages: 
-JavaScript               10 hrs 37 mins      ███████████░░░░░░░░░░░░░░   46.95% 
-Python                   8 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.52% 
-Docker                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-XML                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
-
-🔥 Editors: 
-WebStorm                 11 hrs 56 mins      █████████████░░░░░░░░░░░░   52.78% 
-PyCharm                  10 hrs 39 mins      ███████████░░░░░░░░░░░░░░   47.16% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-💻 Operating Systems: 
-Windows                  22 hrs 36 mins      █████████████████████████   100.0%
-
-```
-
-**I mostly code in Vue** 
-
-```text
-Vue          8 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Java         6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-JavaScript   6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-PHP          3 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Dart         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
