@@ -3,11 +3,13 @@
 <p><em>Mobile Developer at <a href="https://dealjava.com">Dealjava</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/RickyDoesCode?label=RickyDoesCode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RickyDoesCode?label=RickyDoesCode)](https://twitter.com/RickyDoesCode)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Ricky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audrick)](https://www.linkedin.com/in/audrick)
-![GitHub followers](https://img.shields.io/github/followers/RickyDoesCode?label=RickyDoesCode&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/RickyDoesCode?label=RickyDoesCode&style=social)](https://github.com/RickyDoesCode)
 ![](https://visitor-badge.glitch.me/badge?page_id=RickyDoesCode.RickyDoesCode)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![](https://img.shields.io/badge/-instagram-blueviolet?logo=instagram&logoColor=white)](https://instagram.com/designsbyricky)
+[![](https://img.shields.io/badge/-others-orange)](https://linktr.ee/designsbyricky)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
