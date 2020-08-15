@@ -42,17 +42,17 @@ const ricky = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.5%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.8%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 220 Contributions in year 2020
+> 🏆 221 Contributions in year 2020
  > 
 > 📦 Used 0 Bytes in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 0 Owned Private Repository 
  > 
