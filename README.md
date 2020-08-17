@@ -42,21 +42,21 @@ const ricky = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.8%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 221 Contributions in year 2020
+> 🏆 221 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 27 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    33 commits     ██████░░░░░░░░░░░░░░░░░░░   26.4% 
@@ -65,7 +65,7 @@ const ricky = {
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
@@ -79,19 +79,19 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Jakarta
+⌚︎ Time zone: Asia/Jakarta
 
-💬 Languages: 
+💬 Programming Languages: 
 JavaScript               9 hrs 31 mins       ██████████████████████░░░   89.41% 
 JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
 SCSS                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
 Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
 Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  10 hrs 39 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
@@ -101,12 +101,12 @@ bump-bot-redesigned      1 hr 57 mins        ████░░░░░░░�
 Cable                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
 infinite-moderator       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.84%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  10 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               21 repos            ████████████░░░░░░░░░░░░░   51.22% 
