@@ -52,9 +52,9 @@ const ricky = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories
+> 📜 27 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+27 Private Repository 
  > 
 **I'm an Early 🐤** 
 
