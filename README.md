@@ -40,9 +40,9 @@ const ricky = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95177%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -85,15 +85,14 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               48 mins             ██████████████████████░░░   91.46% 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
+JavaScript               48 mins             ██████████████████████░░░   91.38% 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
 
 🔥 Editors: 
 VS Code                  53 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Scrape                   53 mins             ████████████████████████░   99.06% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+Scrape                   53 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  53 mins             █████████████████████████   100.0%
