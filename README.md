@@ -1,6 +1,6 @@
 ## Hello, I'm Ricky! 🙏🏻
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Mobile Developer at <a href="https://dealjava.com">Dealjava</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Freelance Mobile Developer & UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RickyDoesCode?label=RickyDoesCode)](https://twitter.com/RickyDoesCode)
